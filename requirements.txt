@@ -1,0 +1,4 @@
+gunicorn
+Eve
+-e git+git://github.com/idtlabssl/eden#egg=eden
+
